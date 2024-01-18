@@ -1,0 +1,244 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v26_49 {
+  width: 615px;
+  height: 745px;
+  background: url("../images/v26_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v12_43 {
+  width: 615px;
+  height: 345px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v9_28 {
+  width: 615px;
+  height: 345px;
+  background: url("../images/v9_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_2 {
+  width: 615px;
+  height: 345px;
+  background: rgba(255,238,238,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_3 {
+  width: 214px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 149px;
+  left: 200px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_9 {
+  width: 230px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 232px;
+  left: 25px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_5 {
+  width: 112px;
+  height: 187px;
+  background: url("../images/v3_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_7 {
+  width: 231px;
+  height: 196px;
+  background: url("../images/v3_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 149px;
+  left: 277px;
+  overflow: hidden;
+}
+.v3_8 {
+  width: 313px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 60px;
+  left: 151px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v5_20 {
+  width: 257px;
+  height: 149px;
+  background: url("../images/v5_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 182px;
+  overflow: hidden;
+}
+.v8_26 {
+  width: 81px;
+  height: 85px;
+  background: url("../images/v8_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 260px;
+  left: 38px;
+  overflow: hidden;
+}
+.v12_44 {
+  width: 615px;
+  height: 345px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 400px;
+  left: 0px;
+  overflow: hidden;
+}
+.v9_27 {
+  width: 615px;
+  height: 345px;
+  background: url("../images/v9_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_14 {
+  width: 615px;
+  height: 345px;
+  background: rgba(255,240,164,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_21 {
+  width: 214px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 66px;
+  left: 41px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_36 {
+  width: 154px;
+  height: 143px;
+  background: url("../images/v11_36.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 119px;
+  left: 230px;
+  overflow: hidden;
+}
+.v5_18 {
+  width: 214px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 35px;
+  left: 41px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v26_48 {
+  width: 105px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 153px;
+  left: 255px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_37 {
+  width: 234px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 256px;
+  left: 190px;
+  font-family: Marko One;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v10_33 {
+  width: 4px;
+  height: 41px;
+  background: url("../images/v10_33.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 76px;
+  border: 1px solid rgba(148,140,139,1);
+}
